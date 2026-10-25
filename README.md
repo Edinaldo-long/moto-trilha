@@ -91,6 +91,4 @@ Todo o jogo está em um único arquivo, `lib/main.dart`:
 - **O controle não responde:** rode com `flutter run` e veja no console as linhas `RAW ...`, que mostram o nome de cada botão. Refaça **CONFIGURAR CONTROLE** e confira a linha "Último sinal recebido".
 - **Empinar e abaixar parecem invertidos no analógico:** troque o sinal do eixo vertical (`_ay`) na função `_applyPad`.
 
-## 👤 Autor
 
-Feito por [Edinaldo-long](https://github.com/Edinaldo-long).
